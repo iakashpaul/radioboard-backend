@@ -26,6 +26,9 @@ io.sockets.on('connection', function(socket){
 	socket.on("drawPath", function(path) {
 		socket.broadcast.emit("drawPath", path);
 	});
+	socket.on("objectMoved", function(path) {
+		socket.broadcast.emit("objectMoved", path);
+	});
 });
 
 server.listen(process.env.PORT || 5000);
