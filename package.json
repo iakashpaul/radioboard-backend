@@ -1,0 +1,22 @@
+{
+  "name": "radioboard-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "iakashpaul",
+  "license": "MIT",
+  "dependencies": {
+    "consolidate": "^0.14.5",
+    "express": "^4.15.2",
+    "fabric": "^2.0.0-beta.1",
+    "hogan": "^1.0.2",
+    "socket.io": "^1.7.3"
+  },
+  "engines": {
+    "node": "6.9.5"
+  }
+}
