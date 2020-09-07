@@ -3,7 +3,7 @@
 This app does two things, first is host the collaborative whiteboard drawing code & secondly communicates with the drawn shape & text recognizer & relays the data to the Teams addon.
 
 
-# Steps to run
+## Steps to run
 
 1. Clone this repo
 
