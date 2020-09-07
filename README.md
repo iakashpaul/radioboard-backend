@@ -26,6 +26,9 @@ It has a teams-add on which enables collaboration on the same whiteboard, and a 
 
 * The code is hosted on this repo [github.com/iakashpaul/radioboard-frontend](github.com/iakashpaul/radioboard-frontend)
 
+### Recognizer App
+
+*  App code for Digital Ink is here [https://github.com/iakashpaul/radioboard-recognizer](https://github.com/iakashpaul/radioboard-recognizer) 
 Shape Recognition 
 https://youtu.be/LTAt1Lf9Cks
 
